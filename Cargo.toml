@@ -1,0 +1,10 @@
+[package]
+authors = ["Mikkel Kroman <mk@uplink.io>"]
+license = "BSD-2-Clause"
+name = "avs"
+version = "0.1.0"
+
+[dependencies]
+hyper = "0.7.2"
+yup-oauth2 = "0.5.3"
+
